@@ -1,0 +1,14 @@
+*.class
+build/Shed.jar
+AGENTS.md
+target/
+.shed-large-file-fixtures/
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+*.log
+.DS_Store
+.vite/
+crates/pxcl-wasm/pkg/
